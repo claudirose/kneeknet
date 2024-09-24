@@ -47,7 +47,7 @@ It can be seen from the confusion matrix that 14% of the Normal test images were
 
 While I expected some confusion between similar severities, it is interesting that the algorithm confused so many severe images with Doubtful and performed so poorly on Mild images. I doubt that I have achieved the optimum setup for this data.  With more time and computational power for tuning, might be able to achieve a better score.
 
-Another consideration is that the images were classified by humans. It is unknown how many people were involved. Some of the grading may be subjective or difficult. This would make it more difficult for a neural network to understand. A better accuracy might be achieved if some of the categories were merged together.
+Another consideration is that the images were classified by humans. It is unknown how many people were involved. Some of the grading may be subjective or difficult. Poor quality grading or ambiguous categories would make it for a neural network to learn. A better accuracy might be achieved if some of the categories were merged together.
 
 ![Screenshot](FinalModelSummary.png) 
 
