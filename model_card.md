@@ -29,16 +29,15 @@ The optimiser used is toch.optim.Adam and the criterion used is torch.nn.CrossEn
 
 ## Performance
 
+## Limitations
+
 The model is trained on a random 75% sample of the single-knee image data, and tested on the remaining 25%. An accuracy of 59% is achieved on the unseen test data. 
 
 The confusion matrix and accuracy by class on the test data can be seen below.
 
 ![Screenshot](FinalModelSummary.png) 
 
-## Limitations
-
 The model can only be used on single knee x-rays. It is limited in use by its low accuracy score. 
-- 
 
 ## Trade-offs
 
