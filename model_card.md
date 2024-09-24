@@ -14,7 +14,7 @@ The grade of osteoarthritis according to the Kellgren and Lawrence grading syste
 - 1 (Doubtful)
 - 2 (Mild)
 - 3 (Moderate)
- -4 (Severe)
+- 4 (Severe)
 
 
 **Model Architecture:** 
